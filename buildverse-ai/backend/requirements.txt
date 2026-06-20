@@ -1,0 +1,9 @@
+fastapi==0.138.0
+uvicorn[standard]==0.49.0
+google-adk==2.3.0
+google-genai==2.9.0
+pydantic==2.13.4
+python-dotenv==1.0.1
+
+# Optional — only needed if you wire up real MCP servers (see app/mcp_tools.py)
+# mcp>=1.0.0
